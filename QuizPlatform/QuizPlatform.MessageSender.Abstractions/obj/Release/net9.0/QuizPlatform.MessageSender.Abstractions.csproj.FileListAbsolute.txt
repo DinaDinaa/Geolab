@@ -1,0 +1,12 @@
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\bin\Release\net9.0\QuizPlatform.MessageSender.Abstractions.deps.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\bin\Release\net9.0\QuizPlatform.MessageSender.Abstractions.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\bin\Release\net9.0\QuizPlatform.MessageSender.Abstractions.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.AssemblyInfo.cs
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.sourcelink.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\refint\QuizPlatform.MessageSender.Abstractions.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\QuizPlatform.MessageSender.Abstractions.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender.Abstractions\obj\Release\net9.0\ref\QuizPlatform.MessageSender.Abstractions.dll

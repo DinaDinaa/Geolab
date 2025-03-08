@@ -1,0 +1,5 @@
+[2025-01-28 01:09:52 INF] Now listening on: https://localhost:7071
+[2025-01-28 01:09:52 INF] Now listening on: http://localhost:5113
+[2025-01-28 01:09:52 INF] Application started. Press Ctrl+C to shut down.
+[2025-01-28 01:09:52 INF] Hosting environment: Development
+[2025-01-28 01:09:52 INF] Content root path: C:\Users\ana1a\Desktop\QuizPlatform\QuizPlatform.Api

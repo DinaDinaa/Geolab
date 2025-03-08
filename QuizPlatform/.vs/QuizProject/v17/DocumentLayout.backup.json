@@ -1,0 +1,1188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\tests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\tests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.service\\services\\implementations\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|solutionrelative:quizplatform.service\\services\\implementations\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.repository\\implementations\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|solutionrelative:quizplatform.repository\\implementations\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.repository\\implementations\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|solutionrelative:quizplatform.repository\\implementations\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.service\\services\\abstractions\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|solutionrelative:quizplatform.service\\services\\abstractions\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\abstractions\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\abstractions\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\tests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\tests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\tests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\tests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\tests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\tests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.service\\services\\implementations\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|solutionrelative:quizplatform.service\\services\\implementations\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.service\\services\\implementations\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|solutionrelative:quizplatform.service\\services\\implementations\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\commands\\testcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\commands\\testcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\commands\\endquizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\commands\\endquizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\commands\\questioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\commands\\questioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\commands\\quizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\commands\\quizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\commands\\startquizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\commands\\startquizcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\models\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\models\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.repository\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|solutionrelative:quizplatform.repository\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\models\\entities\\quizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\models\\entities\\quizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.domain\\abstractions\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040E1813-A389-453F-A79E-9EF5AC51BC5C}|QuizPlatform.Domain\\QuizPlatform.Domain.csproj|solutionrelative:quizplatform.domain\\abstractions\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B21354-3C67-4439-8D58-3A98B308B207}|QuizPlatform.MVC\\QuizPlatform.MVC.csproj|solutionrelative:quizplatform.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.service\\services\\abstractions\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DD813-07AE-4AD0-BD24-827BB314250A}|QuizPlatform.Service\\QuizPlatform.Service.csproj|solutionrelative:quizplatform.service\\services\\abstractions\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748CB615-F531-4171-96E3-203EA2C5FAE5}|QuizPlatform.Api\\QuizPlatform.Api.csproj|solutionrelative:quizplatform.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D90A4-5730-4646-83BF-48A1094CB2ED}|QuizPlatform.Identity\\QuizPlatform.Identity.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.identity\\services\\abstractions\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896D90A4-5730-4646-83BF-48A1094CB2ED}|QuizPlatform.Identity\\QuizPlatform.Identity.csproj|solutionrelative:quizplatform.identity\\services\\abstractions\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D90A4-5730-4646-83BF-48A1094CB2ED}|QuizPlatform.Identity\\QuizPlatform.Identity.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.identity\\services\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896D90A4-5730-4646-83BF-48A1094CB2ED}|QuizPlatform.Identity\\QuizPlatform.Identity.csproj|solutionrelative:quizplatform.identity\\services\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.repository\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|solutionrelative:quizplatform.repository\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D50B5E-EE91-4424-8ED9-F7B531972C24}|QuizPlatform.MessageSender\\QuizPlatform.MessageSender.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.messagesender\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D50B5E-EE91-4424-8ED9-F7B531972C24}|QuizPlatform.MessageSender\\QuizPlatform.MessageSender.csproj|solutionrelative:quizplatform.messagesender\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Vazha\\QuizPlatform\\Quiz.Domain\\Commands\\QuestionCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Exceptions\\QuestionValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\AppData\\Local\\Temp\\TFSTemp\\vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Commands\\QuestionCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Models\\Answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202152416_MigrationIdentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202150217_MigrationIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145719_MigrationIdentity1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145313_MigrationIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Extensions\\ServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\AuthenticationExceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\ChangePasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\IdentityException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\QuizResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\SeedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\TestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\QuestionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\TestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Commands\\TestCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Implementations\\TestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Middlewares\\ErrorHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\QuizPlatform.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuizRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuestionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ITestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuestionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Migrations\\20250205190752_InitMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\ConfigConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\AnswerConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ICommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuizService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\ITestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|c:\\users\\ana1a\\desktop\\geolabbb\\quizplatform\\quizplatform.repository\\migrations\\20250305172951_initmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9FEA0-AF3E-41FB-8753-385A4A921B78}|QuizPlatform.Repository\\QuizPlatform.Repository.csproj|solutionrelative:quizplatform.repository\\migrations\\20250305172951_initmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\QuizService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Service\\Services\\Implementations\\QuizService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\QuizService.cs",
+              "RelativeToolTip": "QuizPlatform.Service\\Services\\Implementations\\QuizService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:11:54.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Controllers\\QuizzesController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\QuizzesController.cs",
+              "RelativeToolTip": "QuizPlatform.Api\\Controllers\\QuizzesController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:13:30.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "QuizPlatform.Api\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:59:11.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Tests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Edit.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Tests\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:16:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "QuizPlatform.Api\\Controllers\\TestsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:07:14.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Tests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Index.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Tests\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:48:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Implementations\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Repository\\Implementations\\QuizRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Implementations\\QuizRepository.cs",
+              "RelativeToolTip": "QuizPlatform.Repository\\Implementations\\QuizRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwFwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:49:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\TestService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Service\\Services\\Implementations\\TestService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\TestService.cs",
+              "RelativeToolTip": "QuizPlatform.Service\\Services\\Implementations\\TestService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:43:09.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "QuizPlatform.MVC\\Controllers\\TestsController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:35:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "RelativeToolTip": "QuizPlatform.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:05:24.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Implementations\\TestRepository.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Repository\\Implementations\\TestRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Implementations\\TestRepository.cs",
+              "RelativeToolTip": "QuizPlatform.Repository\\Implementations\\TestRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:05:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Abstractions\\ITestService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Abstractions\\ITestService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Abstractions\\ITestService.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Abstractions\\ITestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:47:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Tests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Details.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Tests\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T21:03:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Tests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Tests\\Create.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Tests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T21:29:45.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Program.cs",
+              "RelativeToolTip": "QuizPlatform.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:08:34.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\QuestionService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Service\\Services\\Implementations\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Implementations\\QuestionService.cs",
+              "RelativeToolTip": "QuizPlatform.Service\\Services\\Implementations\\QuestionService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:10:18.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StartQuizCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\StartQuizCommand.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Commands\\StartQuizCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\StartQuizCommand.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Commands\\StartQuizCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:51:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Program.cs",
+              "RelativeToolTip": "QuizPlatform.Api\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:28:38.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\TestCommand.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Commands\\TestCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\TestCommand.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Commands\\TestCommand.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:27:02.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EndQuizCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\EndQuizCommand.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Commands\\EndQuizCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\EndQuizCommand.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Commands\\EndQuizCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:53:11.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuizCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\QuizCommand.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Commands\\QuizCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\QuizCommand.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Commands\\QuizCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:36:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\QuestionCommand.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Commands\\QuestionCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Commands\\QuestionCommand.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Commands\\QuestionCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:37:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250305172951_initMig.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Migrations\\20250305172951_initMig.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Repository\\Migrations\\20250305172951_initMig.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Migrations\\20250305172951_initMig.cs",
+              "RelativeToolTip": "QuizPlatform.Repository\\Migrations\\20250305172951_initMig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:29:51.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Models\\Entities\\Test.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Models\\Entities\\Test.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Models\\Entities\\Test.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Models\\Entities\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:27:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T19:45:05.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Database\\SeedData.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Repository\\Database\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Database\\SeedData.cs",
+              "RelativeToolTip": "QuizPlatform.Repository\\Database\\SeedData.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwHUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:17:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuizPlatform.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:07:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Abstractions\\IQuizService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Abstractions\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Abstractions\\IQuizService.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Abstractions\\IQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:25:18.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuizResult.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Models\\Entities\\QuizResult.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Domain\\Models\\Entities\\QuizResult.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Domain\\Models\\Entities\\QuizResult.cs",
+              "RelativeToolTip": "QuizPlatform.Domain\\Models\\Entities\\QuizResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:54:59.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuizPlatform.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T19:39:23.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T19:47:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuizPlatform.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuizPlatform.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T19:08:20.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuizPlatform.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T19:23:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "QuizPlatform.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv4IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:32:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Identity\\Services\\Abstractions\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Identity\\Services\\Abstractions\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Identity\\Services\\Abstractions\\IIdentityService.cs",
+              "RelativeToolTip": "QuizPlatform.Identity\\Services\\Abstractions\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:36:53.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "RelativeToolTip": "QuizPlatform.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:15:07.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Identity\\Services\\Abstractions\\ITokenService.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Identity\\Services\\Abstractions\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Identity\\Services\\Abstractions\\ITokenService.cs",
+              "RelativeToolTip": "QuizPlatform.Identity\\Services\\Abstractions\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:50:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Repository\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.Repository\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "QuizPlatform.Repository\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:01:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MessageSender\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.MessageSender\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\geolabbb\\QuizPlatform\\QuizPlatform.MessageSender\\Services\\EmailSender.cs",
+              "RelativeToolTip": "QuizPlatform.MessageSender\\Services\\EmailSender.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:28:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QuizResult.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\QuizResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\QuizResult.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\QuizResult.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\QuizResult.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:46:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\SeedController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:39:00.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "QuestionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Vazha\\QuizPlatform\\Quiz.Domain\\Commands\\QuestionCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Vazha\\QuizPlatform\\Quiz.Domain\\Commands\\QuestionCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Vazha\\QuizPlatform\\Quiz.Domain\\Commands\\QuestionCommand.cs",
+              "RelativeToolTip": "..\\..\\Vazha\\QuizPlatform\\Quiz.Domain\\Commands\\QuestionCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:25:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Controllers\\TestsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:38:52.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\QuestionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\QuestionService.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\QuestionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:26:38.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\TestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\TestService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\TestService.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Implementations\\TestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:08:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Commands\\TestCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Commands\\TestCommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Commands\\TestCommand.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Commands\\TestCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:55:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "QuestionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Exceptions\\QuestionValidation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Exceptions\\QuestionValidation.cs",
+              "ToolTip": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Exceptions\\QuestionValidation.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Exceptions\\QuestionValidation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAALB8wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:07:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Answer.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Answer.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Answer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:31:56.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Config.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Config.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Config.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Models\\Entities\\Config.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:55:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Implementations\\TestRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\Implementations\\TestRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Implementations\\TestRepository.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\Implementations\\TestRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:56:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:36:30.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\ana1a\\AppData\\Local\\Temp\\TFSTemp\\vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\TFSTemp\\vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll",
+              "ToolTip": "C:\\Users\\ana1a\\AppData\\Local\\Temp\\TFSTemp\\vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\TFSTemp\\vctmp10908_412656.QuizPlatform.Repository.a57ff877.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-02-08T18:09:05.96Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Extensions\\ServiceCollectionExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:23:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Models\\ApplicationUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:24:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthenticationExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\AuthenticationExceptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\AuthenticationExceptions.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\AuthenticationExceptions.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\AuthenticationExceptions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:20:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ChangePasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\ChangePasswordException.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\ChangePasswordException.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\ChangePasswordException.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\ChangePasswordException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:21:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IdentityException.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\IdentityException.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\IdentityException.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\IdentityException.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\ClassLibrary2\\Exceptions\\IdentityException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:21:39.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QuizPlatform.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\QuizPlatform.Repository.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\QuizPlatform.Repository.csproj",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\QuizPlatform.Repository.csproj",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\QuizPlatform.Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T17:51:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:42:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuizRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:48:34.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuestionService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuestionService.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuestionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:11:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ITestService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ITestService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ITestService.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ITestService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:19:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuestionRepository.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\IQuestionRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:54:19.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250205190752_InitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Migrations\\20250205190752_InitMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\Migrations\\20250205190752_InitMigration.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\Migrations\\20250205190752_InitMigration.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\Migrations\\20250205190752_InitMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:07:52.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ConfigConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\ConfigConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\ConfigConfiguration.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\ConfigConfiguration.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\ConfigConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:48:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AnswerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\AnswerConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\AnswerConfiguration.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\AnswerConfiguration.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Repository\\EntityConfigurations\\AnswerConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:21:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ICommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ICommand.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ICommand.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\ICommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:58:01.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QuestionCommands.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Commands\\QuestionCommands.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Commands\\QuestionCommands.cs",
+              "ToolTip": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Commands\\QuestionCommands.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Commands\\QuestionCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:09:51.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:49:21.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\ana1a\\source\\repos\\FinalProject\\QuizPlatform\\Models\\Answer.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FinalProject\\QuizPlatform\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:50:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuizService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuizService.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Domain\\Abstractions\\IQuizService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:22:27.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ITestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "RelativeToolTip": "..\\..\\Geolab\\QuizPlatform\\Quiz.Service\\Services\\Abstractions\\ITestRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:52:30.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250202150217_MigrationIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202150217_MigrationIdentity.cs",
+              "RelativeDocumentMoniker": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202150217_MigrationIdentity.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202150217_MigrationIdentity.cs",
+              "RelativeToolTip": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202150217_MigrationIdentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:02:17.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250202152416_MigrationIdentity2.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202152416_MigrationIdentity2.cs",
+              "RelativeDocumentMoniker": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202152416_MigrationIdentity2.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202152416_MigrationIdentity2.cs",
+              "RelativeToolTip": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202152416_MigrationIdentity2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:24:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250202145719_MigrationIdentity1.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145719_MigrationIdentity1.cs",
+              "RelativeDocumentMoniker": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145719_MigrationIdentity1.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145719_MigrationIdentity1.cs",
+              "RelativeToolTip": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145719_MigrationIdentity1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:57:19.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250202145313_MigrationIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145313_MigrationIdentity.cs",
+              "RelativeDocumentMoniker": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145313_MigrationIdentity.cs",
+              "ToolTip": "C:\\Users\\ana1a\\Desktop\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145313_MigrationIdentity.cs",
+              "RelativeToolTip": "..\\..\\QuizPlatform\\Quiz.Repository\\Migrations\\20250202145313_MigrationIdentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:13.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-02T14:38:31.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

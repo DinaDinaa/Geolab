@@ -1,0 +1,15 @@
+[2025-02-05 22:25:56 INF] Now listening on: https://localhost:7071
+[2025-02-05 22:25:56 INF] Now listening on: http://localhost:5113
+[2025-02-05 22:25:56 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-05 22:25:56 INF] Hosting environment: Development
+[2025-02-05 22:25:56 INF] Content root path: C:\Users\vabuselidze\Desktop\QuizPlatform\Quiz.Api
+[2025-02-05 23:08:39 INF] Now listening on: https://localhost:7071
+[2025-02-05 23:08:39 INF] Now listening on: http://localhost:5113
+[2025-02-05 23:08:39 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-05 23:08:39 INF] Hosting environment: Development
+[2025-02-05 23:08:39 INF] Content root path: C:\Users\ana1a\Desktop\Last\QuizPlatform\Quiz.Api
+[2025-02-05 23:10:52 INF] Now listening on: https://localhost:7071
+[2025-02-05 23:10:52 INF] Now listening on: http://localhost:5113
+[2025-02-05 23:10:53 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-05 23:10:53 INF] Hosting environment: Development
+[2025-02-05 23:10:53 INF] Content root path: C:\Users\ana1a\Desktop\Last\QuizPlatform\Quiz.Api

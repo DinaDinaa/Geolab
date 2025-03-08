@@ -1,0 +1,13 @@
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\bin\Release\net9.0\QuizPlatform.Domain.deps.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\bin\Release\net9.0\QuizPlatform.Domain.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\bin\Release\net9.0\QuizPlatform.Domain.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.csproj.AssemblyReference.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.AssemblyInfo.cs
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.sourcelink.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\refint\QuizPlatform.Domain.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\QuizPlatform.Domain.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\obj\Release\net9.0\ref\QuizPlatform.Domain.dll

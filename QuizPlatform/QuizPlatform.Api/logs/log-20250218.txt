@@ -1,0 +1,324 @@
+[2025-02-18 21:19:20 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:19:20 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:19:20 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:19:20 INF] Hosting environment: Development
+[2025-02-18 21:19:20 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:19:23 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:24:06 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:24:06 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:24:06 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:24:06 INF] Hosting environment: Development
+[2025-02-18 21:24:06 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:24:08 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:24:22 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:24:22 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:24:22 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:24:22 INF] Hosting environment: Development
+[2025-02-18 21:24:22 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:24:23 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:29:15 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:29:15 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:29:15 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:29:15 INF] Hosting environment: Development
+[2025-02-18 21:29:15 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:29:16 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:30:05 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:30:05 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:30:05 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:30:06 INF] Hosting environment: Development
+[2025-02-18 21:30:06 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:30:08 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:34:18 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:34:18 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:34:18 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:34:18 INF] Hosting environment: Development
+[2025-02-18 21:34:18 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:34:20 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:34:50 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:34:50 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:34:50 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:34:50 INF] Hosting environment: Development
+[2025-02-18 21:34:50 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:34:51 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:35:02 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:35:02 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:35:02 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:35:02 INF] Hosting environment: Development
+[2025-02-18 21:35:02 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:35:03 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:36:43 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:36:44 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:36:44 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:36:44 INF] Hosting environment: Development
+[2025-02-18 21:36:44 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:36:45 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:37:03 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:37:03 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:37:03 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:37:03 INF] Hosting environment: Development
+[2025-02-18 21:37:03 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:37:04 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:41:57 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:41:57 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:41:57 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:41:57 INF] Hosting environment: Development
+[2025-02-18 21:41:57 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:41:59 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:42:52 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:42:52 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:42:52 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:42:52 INF] Hosting environment: Development
+[2025-02-18 21:42:52 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:42:54 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:44:30 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:44:30 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:44:30 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:44:30 INF] Hosting environment: Development
+[2025-02-18 21:44:30 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:44:31 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:47:19 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:47:19 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:47:19 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:47:19 INF] Hosting environment: Development
+[2025-02-18 21:47:19 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:47:20 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:47:34 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:47:34 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:47:34 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:47:34 INF] Hosting environment: Development
+[2025-02-18 21:47:34 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:47:35 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 21:59:43 INF] Now listening on: https://localhost:7071
+[2025-02-18 21:59:43 INF] Now listening on: http://localhost:5113
+[2025-02-18 21:59:44 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 21:59:44 INF] Hosting environment: Development
+[2025-02-18 21:59:44 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 21:59:46 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:00:24 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:00:25 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:00:25 INF] Hosting environment: Development
+[2025-02-18 22:00:25 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 22:00:26 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:05:36 INF] Now listening on: https://localhost:7071
+[2025-02-18 22:05:36 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:05:37 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:05:37 INF] Hosting environment: Development
+[2025-02-18 22:05:37 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 22:05:38 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:43:54 INF] Now listening on: https://localhost:7071
+[2025-02-18 22:43:54 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:43:54 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:43:54 INF] Hosting environment: Development
+[2025-02-18 22:43:54 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 22:43:57 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:48:02 INF] Now listening on: https://localhost:7071
+[2025-02-18 22:48:02 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:48:02 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:48:02 INF] Hosting environment: Development
+[2025-02-18 22:48:02 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 22:48:03 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:55:26 INF] Now listening on: https://localhost:7071
+[2025-02-18 22:55:26 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:55:26 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:55:26 INF] Hosting environment: Development
+[2025-02-18 22:55:26 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 22:55:28 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Quizzes" for actions - QuizPlatform.Api.Controllers.QuizzesController.StartQuiz (QuizPlatform.Api), QuizPlatform.Api.Controllers.QuizzesController.EndQuiz (QuizPlatform.Api). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-02-18 22:58:32 INF] Now listening on: https://localhost:7071
+[2025-02-18 22:58:32 INF] Now listening on: http://localhost:5113
+[2025-02-18 22:58:32 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 22:58:32 INF] Hosting environment: Development
+[2025-02-18 22:58:32 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-02-18 23:11:49 INF] Now listening on: https://localhost:7071
+[2025-02-18 23:11:49 INF] Now listening on: http://localhost:5113
+[2025-02-18 23:11:49 INF] Application started. Press Ctrl+C to shut down.
+[2025-02-18 23:11:49 INF] Hosting environment: Development
+[2025-02-18 23:11:49 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api

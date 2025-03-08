@@ -1,0 +1,297 @@
+[2025-03-06 00:39:36 INF] Now listening on: https://localhost:7071
+[2025-03-06 00:39:36 INF] Now listening on: http://localhost:5113
+[2025-03-06 00:39:36 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 00:39:36 INF] Hosting environment: Development
+[2025-03-06 00:39:36 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 00:39:55 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 00:43:53 INF] Now listening on: https://localhost:7071
+[2025-03-06 00:43:53 INF] Now listening on: http://localhost:5113
+[2025-03-06 00:43:53 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 00:43:53 INF] Hosting environment: Development
+[2025-03-06 00:43:53 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 00:44:26 INF] Now listening on: https://localhost:7071
+[2025-03-06 00:44:26 INF] Now listening on: http://localhost:5113
+[2025-03-06 00:44:26 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 00:44:26 INF] Hosting environment: Development
+[2025-03-06 00:44:26 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 00:44:54 INF] Now listening on: https://localhost:7071
+[2025-03-06 00:44:54 INF] Now listening on: http://localhost:5113
+[2025-03-06 00:44:54 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 00:44:54 INF] Hosting environment: Development
+[2025-03-06 00:44:54 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 00:44:56 INF] Searching tests
+[2025-03-06 00:44:57 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 00:45:55 INF] Searching tests
+[2025-03-06 01:02:17 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:02:17 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:02:17 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:02:17 INF] Hosting environment: Development
+[2025-03-06 01:02:17 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:02:19 INF] Searching tests
+[2025-03-06 01:02:20 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:06:22 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:06:22 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:06:22 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:06:22 INF] Hosting environment: Development
+[2025-03-06 01:06:22 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:06:24 INF] Searching tests
+[2025-03-06 01:06:26 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:06:43 INF] Searching quiz with id: 1
+[2025-03-06 01:07:04 INF] Searching tests
+[2025-03-06 01:07:08 INF] Searching quiz with id: 2
+[2025-03-06 01:21:30 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:21:30 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:21:30 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:21:30 INF] Hosting environment: Development
+[2025-03-06 01:21:30 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:21:31 INF] Searching tests
+[2025-03-06 01:21:33 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:30:56 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:30:56 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:30:56 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:30:56 INF] Hosting environment: Development
+[2025-03-06 01:30:56 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:30:57 INF] Searching tests
+[2025-03-06 01:30:58 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:32:46 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:32:46 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:32:47 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:32:47 INF] Hosting environment: Development
+[2025-03-06 01:32:47 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:32:48 INF] Searching tests
+[2025-03-06 01:32:50 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:37:05 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:37:05 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:37:05 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:37:05 INF] Hosting environment: Development
+[2025-03-06 01:37:05 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:37:07 INF] Searching tests
+[2025-03-06 01:37:08 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:38:15 ERR] An unhandled exception occurred.
+QuizPlatform.Domain.Exceptions.ObjectNotFoundException: Test with id: '0' not found
+   at QuizPlatform.Services.Implementations.TestRepository.GetTestByIdAsync(Int32 id) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Repository\Implementations\TestRepository.cs:line 55
+   at QuizPlatform.Api.Controllers.TestsController.PostTest(TestCommand command) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api\Controllers\TestsController.cs:line 54
+   at lambda_method108(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QuizPlatform.Api.Middlewares.ErrorHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api\Middlewares\ErrorHandlingMiddleware.cs:line 26
+[2025-03-06 01:39:53 INF] Searching tests
+[2025-03-06 01:50:15 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:50:15 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:50:15 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:50:15 INF] Hosting environment: Development
+[2025-03-06 01:50:15 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:50:15 INF] Searching tests
+[2025-03-06 01:50:16 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:50:47 ERR] An unhandled exception occurred.
+QuizPlatform.Domain.Exceptions.ValidationException: TestId must be positive
+   at QuizPlatform.Domain.Commands.TestCommand.Validate() in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Domain\Commands\TestCommand.cs:line 27
+   at QuizPlatform.Service.Services.Implementations.TestService.RegisterTestAsync(TestCommand command) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Service\Services\Implementations\TestService.cs:line 27
+   at QuizPlatform.Api.Controllers.TestsController.PostTest(TestCommand command) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api\Controllers\TestsController.cs:line 51
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QuizPlatform.Api.Middlewares.ErrorHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api\Middlewares\ErrorHandlingMiddleware.cs:line 26
+[2025-03-06 01:50:52 INF] Searching tests
+[2025-03-06 01:53:56 INF] Now listening on: https://localhost:7071
+[2025-03-06 01:53:56 INF] Now listening on: http://localhost:5113
+[2025-03-06 01:53:56 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 01:53:56 INF] Hosting environment: Development
+[2025-03-06 01:53:56 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 01:53:58 INF] Searching tests
+[2025-03-06 01:53:59 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 01:54:18 INF] Searching tests
+[2025-03-06 02:16:36 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:16:36 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:16:36 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:16:36 INF] Hosting environment: Development
+[2025-03-06 02:16:36 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:16:38 INF] Searching tests
+[2025-03-06 02:16:39 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:17:54 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:17:54 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:17:54 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:17:54 INF] Hosting environment: Development
+[2025-03-06 02:17:54 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:18:13 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:18:14 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:18:14 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:18:14 INF] Hosting environment: Development
+[2025-03-06 02:18:14 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:18:16 INF] Searching tests
+[2025-03-06 02:18:18 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:20:20 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:20:20 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:20:20 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:20:20 INF] Hosting environment: Development
+[2025-03-06 02:20:20 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:21:08 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:21:08 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:21:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:21:08 INF] Hosting environment: Development
+[2025-03-06 02:21:08 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:21:10 INF] Searching tests
+[2025-03-06 02:21:12 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:21:25 INF] Searching quiz with id: 1
+[2025-03-06 02:24:09 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:24:09 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:24:09 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:24:09 INF] Hosting environment: Development
+[2025-03-06 02:24:09 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:24:11 INF] Searching tests
+[2025-03-06 02:24:12 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:27:25 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:27:25 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:27:25 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:27:25 INF] Hosting environment: Development
+[2025-03-06 02:27:25 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:27:27 INF] Searching tests
+[2025-03-06 02:27:29 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:27:32 INF] Searching quiz with id: 1
+[2025-03-06 02:30:36 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:30:36 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:30:36 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:30:36 INF] Hosting environment: Development
+[2025-03-06 02:30:36 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:30:38 INF] Searching tests
+[2025-03-06 02:30:39 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:30:43 INF] Searching quiz with id: 1
+[2025-03-06 02:33:27 INF] Searching tests
+[2025-03-06 02:33:35 INF] Searching quiz with id: 4
+[2025-03-06 02:33:42 INF] Searching tests
+[2025-03-06 02:33:47 INF] Searching quiz with id: 4
+[2025-03-06 02:34:21 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:34:21 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:34:21 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:34:21 INF] Hosting environment: Development
+[2025-03-06 02:34:21 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:34:24 INF] Searching tests
+[2025-03-06 02:34:26 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:34:50 INF] Searching quiz with id: 4
+[2025-03-06 02:36:32 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:36:32 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:36:32 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:36:32 INF] Hosting environment: Development
+[2025-03-06 02:36:32 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:36:34 INF] Searching tests
+[2025-03-06 02:36:37 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:36:41 INF] Searching quiz with id: 4
+[2025-03-06 02:36:51 INF] Searching tests
+[2025-03-06 02:38:01 INF] Searching quiz with id: 4
+[2025-03-06 02:38:06 INF] Searching tests
+[2025-03-06 02:39:17 INF] Searching quiz with id: 4
+[2025-03-06 02:39:21 INF] Searching tests
+[2025-03-06 02:40:13 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:40:13 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:40:13 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:40:13 INF] Hosting environment: Development
+[2025-03-06 02:40:13 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:40:15 INF] Searching tests
+[2025-03-06 02:40:17 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:40:22 INF] Searching quiz with id: 4
+[2025-03-06 02:40:27 INF] Searching tests
+[2025-03-06 02:41:29 INF] Now listening on: https://localhost:7071
+[2025-03-06 02:41:29 INF] Now listening on: http://localhost:5113
+[2025-03-06 02:41:29 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 02:41:29 INF] Hosting environment: Development
+[2025-03-06 02:41:29 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 02:41:31 INF] Searching tests
+[2025-03-06 02:41:34 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 02:41:37 INF] Searching quiz with id: 4
+[2025-03-06 02:42:12 INF] Searching tests
+[2025-03-06 02:42:22 INF] Searching tests
+[2025-03-06 02:42:25 INF] Searching quiz with id: 4
+[2025-03-06 03:11:35 INF] Searching tests
+[2025-03-06 03:11:48 INF] Searching quiz with id: 4
+[2025-03-06 03:15:21 INF] Searching quiz with id: 4
+[2025-03-06 03:15:38 INF] Searching tests
+[2025-03-06 03:16:40 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:16:40 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:16:40 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:16:40 INF] Hosting environment: Development
+[2025-03-06 03:16:40 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:16:48 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:16:48 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:16:48 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:16:48 INF] Hosting environment: Development
+[2025-03-06 03:16:48 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:16:49 INF] Searching tests
+[2025-03-06 03:16:51 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 03:16:57 INF] Searching tests
+[2025-03-06 03:17:00 INF] Searching tests
+[2025-03-06 03:17:08 INF] Searching quiz with id: 4
+[2025-03-06 03:17:37 INF] Searching tests
+[2025-03-06 03:21:30 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:21:30 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:21:30 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:21:30 INF] Hosting environment: Development
+[2025-03-06 03:21:30 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:21:32 INF] Searching tests
+[2025-03-06 03:21:33 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 03:21:40 INF] Searching quiz with id: 4
+[2025-03-06 03:21:49 INF] Searching tests
+[2025-03-06 03:28:45 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:28:45 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:28:45 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:28:45 INF] Hosting environment: Development
+[2025-03-06 03:28:45 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:28:47 INF] Searching tests
+[2025-03-06 03:28:49 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 03:28:53 INF] Searching quiz with id: 4
+[2025-03-06 03:28:59 INF] Searching tests
+[2025-03-06 03:47:14 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:47:14 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:47:15 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:47:15 INF] Hosting environment: Development
+[2025-03-06 03:47:15 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:47:16 INF] Searching tests
+[2025-03-06 03:47:19 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 03:47:23 INF] Searching quiz with id: 4
+[2025-03-06 03:47:39 INF] Searching tests
+[2025-03-06 03:47:42 INF] Searching quiz with id: 4
+[2025-03-06 03:47:47 INF] Deleted test with  id  = 4
+[2025-03-06 03:47:47 INF] Searching tests
+[2025-03-06 03:48:06 INF] Searching tests
+[2025-03-06 03:48:17 INF] Searching quiz with id: 5
+[2025-03-06 03:48:19 INF] Searching tests
+[2025-03-06 03:49:20 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:49:20 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:49:20 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:49:20 INF] Hosting environment: Development
+[2025-03-06 03:49:20 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:49:22 INF] Searching tests
+[2025-03-06 03:49:24 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+[2025-03-06 03:49:27 INF] Searching quiz with id: 5
+[2025-03-06 03:49:31 INF] Searching tests
+[2025-03-06 03:49:35 INF] Searching quiz with id: 5
+[2025-03-06 03:49:37 INF] Searching tests
+[2025-03-06 03:49:39 INF] Searching quiz with id: 5
+[2025-03-06 03:49:41 INF] Deleted test with  id  = 5
+[2025-03-06 03:49:42 INF] Searching tests
+[2025-03-06 03:49:45 INF] Searching quiz with id: 2
+[2025-03-06 03:49:50 INF] Searching tests
+[2025-03-06 03:52:42 INF] Now listening on: https://localhost:7071
+[2025-03-06 03:52:42 INF] Now listening on: http://localhost:5113
+[2025-03-06 03:52:42 INF] Application started. Press Ctrl+C to shut down.
+[2025-03-06 03:52:42 INF] Hosting environment: Development
+[2025-03-06 03:52:42 INF] Content root path: C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.Api
+[2025-03-06 03:52:45 INF] Searching tests
+[2025-03-06 03:52:47 WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.

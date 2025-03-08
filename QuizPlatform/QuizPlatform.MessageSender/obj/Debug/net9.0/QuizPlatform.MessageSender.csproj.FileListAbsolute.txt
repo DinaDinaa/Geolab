@@ -1,0 +1,16 @@
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\bin\Debug\net9.0\QuizPlatform.MessageSender.deps.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\bin\Debug\net9.0\QuizPlatform.MessageSender.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\bin\Debug\net9.0\QuizPlatform.MessageSender.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\bin\Debug\net9.0\QuizPlatform.MessageSender.Abstractions.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\bin\Debug\net9.0\QuizPlatform.MessageSender.Abstractions.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.csproj.AssemblyReference.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.AssemblyInfoInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.AssemblyInfo.cs
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.sourcelink.json
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlat.FB826E62.Up2Date
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\refint\QuizPlatform.MessageSender.dll
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\QuizPlatform.MessageSender.pdb
+C:\Users\ana1a\Desktop\geolabbb\QuizPlatform\QuizPlatform.MessageSender\obj\Debug\net9.0\ref\QuizPlatform.MessageSender.dll
